@@ -6,7 +6,7 @@ while (loop < 10):
     place = input("Choose a place (eg. the market, my home...etc): " , ).upper()
     number = int(input("Choose a number: " , ))
     action = input("Choose an action (eg. cooking, running..etc): " , ).upper()
-    anotherWord = input("Choose a dirty word ending in 'ing': " , ).upper()
+    anotherWord = input("Choose a word ending in 'ing': " , ).upper()
 
     print("------------------------------------------------------------------------------------------------------------------")
     print("I love" , action)
